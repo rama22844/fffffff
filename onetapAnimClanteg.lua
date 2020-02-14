@@ -18,10 +18,11 @@ local a3 =
   [9]  =  "on",
   [10]  =  "one",
   [11]  =  "onet",
-  [12]  =  "onetap",
-  [13]  =  "onetap.",
-  [14]  =  "onetap.s",
-  [15]  =  "onetap.su"
+  [12]  =  "oneta,
+  [13]  =  "onetap",
+  [14]  =  "onetap.",
+  [15]  =  "onetap.s"
+  [16]  =  "onetap.su"
 }
 
 function paint()
